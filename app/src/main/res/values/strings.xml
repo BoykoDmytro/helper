@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Helper</string>
+    <string name="not_implemented">Not implemented yet</string>
+    <string name="error">Error</string>
+    <string name="camera">Camera</string>
+    <string name="video">Video</string>
+    <string name="gallery">Gallery</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="discount_list">Discount List</string>
 </resources>
