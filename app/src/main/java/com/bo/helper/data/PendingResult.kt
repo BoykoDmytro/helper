@@ -2,7 +2,7 @@ package com.bo.helper.data
 
 
 const val INTERNET_CONNECTION_ERROR = -2
-const val BAD_REQUEST = 400
+const val ERROR_EXECUTION = -3
 
 sealed class PendingResult<T : Any?>
 

@@ -3,10 +3,7 @@ package com.bo.helper.di
 import android.app.Application
 import android.content.Context
 import com.bo.helper.HelperApp
-import com.bo.helper.di.module.ActivityModule
-import com.bo.helper.di.module.ApplicationModule
-import com.bo.helper.di.module.NetworkModule
-import com.bo.helper.di.module.RepositoryModule
+import com.bo.helper.di.module.*
 import dagger.BindsInstance
 import dagger.Component
 import dagger.android.AndroidInjector
@@ -20,6 +17,7 @@ import javax.inject.Singleton
         ApplicationModule::class,
         NetworkModule::class,
         ActivityModule::class,
+        DatabaseModule::class,
         RepositoryModule::class
     ]
 )

@@ -7,4 +7,6 @@
     <string name="gallery">Gallery</string>
     <string name="error_unknown">Unknown error</string>
     <string name="discount_list">Discount List</string>
+    <string name="scanner">Scanner</string>
+    <string name="empty_message_discount_list">Sorry, but you don\'t have any discounts yet.</string>
 </resources>
